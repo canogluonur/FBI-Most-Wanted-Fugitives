@@ -24,6 +24,6 @@ Now visit http://localhost:5000
 
 ### Verify the running container
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/canogluonur/FBI-Flask-API-Docker/blob/main/IMG_5403.jpg)
 
 
