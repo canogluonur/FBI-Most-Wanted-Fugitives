@@ -24,6 +24,7 @@ Now visit http://localhost:5000
 
 ### Verify the running container
 
-![alt text](https://github.com/canogluonur/FBI-Flask-API-Docker/blob/main/IMG_5403.jpg)
+![Untitled](https://user-images.githubusercontent.com/58385909/174687348-8fc54f22-8d94-4924-b362-b0efa579287e.png)
+
 
 
