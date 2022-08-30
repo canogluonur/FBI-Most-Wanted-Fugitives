@@ -4,7 +4,7 @@ FBI Most Wanted Fugitives Python API Flask app in Docker.
 ### Build application
 Build the Docker image manually by cloning the Git repo.
 ```
-$ git clone https://github.com/canogluonur/fbi-flask-api-docker.git
+$ git clone https://github.com/canogluonur/FBI-Flask-API-Docker.git
 $ docker build -t dockerpython . 
 ```
 Note: dockerpython can be replaced with any name.
