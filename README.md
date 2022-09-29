@@ -25,7 +25,7 @@ Now visit http://localhost:5000
 ### Verify the running container
 
 
-![alt text](https://user-images.githubusercontent.com/58385909/174687348-8fc54f22-8d94-4924-b362-b0efa579287e.png)
+![alt text] (https://user-images.githubusercontent.com/58385909/174687348-8fc54f22-8d94-4924-b362-b0efa579287e.png)
 
 
 
