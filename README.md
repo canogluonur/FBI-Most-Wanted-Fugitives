@@ -26,3 +26,10 @@ Now visit http://localhost:5000
 
 ```
 ![Screenshot](https://user-images.githubusercontent.com/58385909/193022232-e7938a35-ea47-440f-8f06-cfc955b89797.png)
+
+```
+Also you can run from Docker Hub;
+$ docker pull onurcanoglu/fbi
+
+$ docker container run -p 5000:5000 onurcanoglu/fbi:latest
+```
