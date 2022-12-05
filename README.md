@@ -14,7 +14,7 @@ Note: dockerpython can be replaced with any name.
 ### Run the container
 Create a container from the image.
 ```
-docker run -p 5000:5000 dockerpython 
+$ docker run -p 5000:5000 dockerpython 
 ```
 
 Now visit http://localhost:5000
