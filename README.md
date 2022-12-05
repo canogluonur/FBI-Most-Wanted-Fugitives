@@ -8,7 +8,6 @@ $ git clone https://github.com/canogluonur/FBI-Flask-API-Docker.git
 $ docker build -t dockerpython . 
 ```
 Note: dockerpython can be replaced with any name.
-
 ```
 
 ### Run the container
@@ -18,11 +17,11 @@ Create a container from the image.
 $ docker run -p 5000:5000 dockerpython 
 ```
 ```
-
 Now visit http://localhost:5000
-```
+
+
  The hostname of the container is 6095273a4e9b and its IP is 172.17.0.2. 
-```
+
 
 ### Verify the running container
 
